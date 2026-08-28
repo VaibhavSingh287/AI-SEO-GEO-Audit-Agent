@@ -1,0 +1,6 @@
+{
+  "name": "AI SEO & GEO Audit Agent",
+  "description": "Enterprise-grade SEO and Generative Engine Optimization (GEO) audit agent with deterministic technical analysis, semantic entity extraction, AI search readiness scoring, and evidence-backed recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
